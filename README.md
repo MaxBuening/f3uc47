@@ -61,9 +61,10 @@ Im Betrieb funktioniert das System wie folgt:
 ---
 
 ### Software-Setup
-4. Code in die Arduino IDE kopieren  
-5. Sicherstellen, dass die Edge-Impulse-Library eingebunden ist  
-6. Code ggf. anpassen (siehe unten)  
+4. Code in die Arduino IDE kopieren
+5. Die in dem Projekt abgelegte .zip in die ArduinoIDE importieren sowie die Bibliothek für den LCD-Display hier runterzuladen :https://codeload.github.com/Seeed-Studio/Grove_LCD_RGB_Backlight/zip/refs/heads/master 
+6. Sicherstellen, dass die Edge-Impulse-Library eingebunden ist  
+7. Code ggf. anpassen (siehe unten)  
 
 ---
 
